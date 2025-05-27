@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2a3c19c98084af488743f2f75ea8295, type: 3}
+  m_Name: Voices
+  m_EditorClassIdentifier: 
+  soundEntries:
+  - soundName: voice_death_1
+    clip: {fileID: 8300000, guid: 1a7f8541918085044a9563d774d51114, type: 3}
+    category: 3
+  - soundName: voice_death_2
+    clip: {fileID: 8300000, guid: 6d40f0226e6860444843196d1a31137d, type: 3}
+    category: 3
+  - soundName: voice_takedamage_1
+    clip: {fileID: 8300000, guid: c585e10443cff3242986ea748b53f6b7, type: 3}
+    category: 3
+  - soundName: voice_takedamage_2
+    clip: {fileID: 8300000, guid: 42465e3462345514db046a3f968febc8, type: 3}
+    category: 3
+  - soundName: voice_welcome
+    clip: {fileID: 8300000, guid: 2da834605adb14e479b9685097ea25d6, type: 3}
+    category: 3
+  - soundName: voice_greetings
+    clip: {fileID: 8300000, guid: c296ec6f81b38a149b96f5a43b166b6a, type: 3}
+    category: 3

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2a3c19c98084af488743f2f75ea8295, type: 3}
+  m_Name: SFX_Weapon_762
+  m_EditorClassIdentifier: 
+  soundEntries:
+  - soundName: wpn_762_single
+    clip: {fileID: 8300000, guid: 6cbe7d10b3b15db4caa708541fd3b1be, type: 3}
+    category: 0
+  - soundName: wpn_762_double
+    clip: {fileID: 8300000, guid: 4c79044dc8015dd4385440ed0b51bb56, type: 3}
+    category: 0
+  - soundName: wpn_762_spray
+    clip: {fileID: 8300000, guid: ab26352f76593c84a9a8e2891cb2d28d, type: 3}
+    category: 0
+  - soundName: wpn_762_burst
+    clip: {fileID: 8300000, guid: ce7be68a0a0a4c545a098cd9fb8dacc9, type: 3}
+    category: 0
+  - soundName: wpn_762_rack
+    clip: {fileID: 8300000, guid: efc5f6ef503d1b6499b934c01e1bddf9, type: 3}
+    category: 0
+  - soundName: wpn_762_reload
+    clip: {fileID: 8300000, guid: ed3c4367905592e41aefc34687e52f62, type: 3}
+    category: 0
